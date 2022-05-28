@@ -1,0 +1,47 @@
+Baixar o git bash no site: https://git-scm.com/downloads
+em Other Git for Windows downloads selecionar 64-bit Git for Windows Setup.
+instalar programa do git bash
+
+Abrir git bash
+
+Fazer login no github ou criar conta se não tiver
+https://github.com/login
+
+Confirgurar o git bash
+
+    - confirgurar nome de usuario
+            - git config --global user.name "Robson-SM"
+
+    - configurar email de usuario
+	    - git config --global user.email "profes_robson@hotmail.com"
+
+Criar repositório no github
+
+criar .git
+	- git init
+
+
+referenciar repositório remoto no repositorio local
+
+	- git remote add origin https://github.com/Robson-SM/Desenvolvimento_Web.git
+
+git status  - ver status dos arquivos/pasta
+git add - prepara arquivos para subir no git hub
+git commit -m "MENSAGEM" - adiciona mensagem para evidenciar o commit
+git push
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+

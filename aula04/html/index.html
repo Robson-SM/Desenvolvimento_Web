@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var listaNomes = []
+
+        var nome1 = String(prompt('Digite o primeiro nome'))
+        var nome2 = String(prompt('Digite o segundo nome'))
+        var nome3 = String(prompt('Digite o terceiro nome'))
+        var nome4 = String(prompt('Digite o quarto nome'))
+         
+        listaNomes.push(nome1,nome2, nome3,nome4)
+
+        document.writeln('----------------------------<br>')
+        document.writeln('--------Array Inicial-------<br>')
+        document.writeln(listaNomes)
+
+        // listaNomes.splice() pesquisar
+        
+        //Mostra tamanho do array
+
+        document.writeln('----------------------------<br>')
+        document.writeln('--------Tamanho Array-------<br>')
+        document.writeln(listaNomes.length)
+        
+        // Mostar array ordenado
+
+        document.writeln('----------------------------<br>')
+        document.writeln('--------Array Orenado-------<br>')
+        document.writeln(listaNomes.sort)
+             
+        //mostrar array como novos elementos
+
+        document.writeln('----------------------------<br>')
+        document.writeln('--------Array Orenado-------<br>')
+        document.writeln(listaNomes.sort)
+
+        listaNomes.push('Jorge','Maicon')
+
+        //mostrar array sem elemento nenhum
+        listaNomes.pop(listaNomes)
+
+
+
+
+
+    </script>
+</body>
+</html>
