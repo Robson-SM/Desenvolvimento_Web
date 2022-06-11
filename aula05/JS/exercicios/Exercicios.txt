@@ -1,0 +1,22 @@
+1 - criar as 4 operações basicas da matematica usando as funções:
+
+Adicação
+Subtração
+Divisão
+Multiplicação
+
+2 - criar as 4 operações basicas da matematica usando arrow function:
+
+Adicação
+Subtração
+Divisão
+Multiplicação
+
+3 - Criar uma função que receba como parâmetro o nome, sobrenome, idade e imprima na tela as informações:
+EX: Seu nome completo é {nome}{sobrenome} e você tem {idade} anos 
+
+4 - Criar uma função que receba um objeto como parâmetro imprima as informações do objeto
+o objeto deve conter (nome, idade, endereço, telefone e profissão)
+Sendo que telefone e endereço devem ser uma lista
+EX: ['rua x', 'rua y']['11965874112','9874563214']
+
