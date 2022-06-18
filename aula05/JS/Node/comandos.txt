@@ -1,0 +1,15 @@
+INSTALAÇÃO DO EXPRESS
+
+NPM - node Package manager (GERENCIADOR DE PACOTES NODE)
+
+ -npm install EXPRESS
+
+ METODOS HTTP
+
+ - CRUD
+ - CREATE  (HTTP - POST)     (SQL - INSERT)
+ - READ    (HTTP - GET)      (SQL - SELECT)
+ - UPDATE  (HTTP - PUT)      (SQL - UPDATE) 
+ = DELETE  (HTTP - DELETE)   (SQL - DELETE)
+                        
+

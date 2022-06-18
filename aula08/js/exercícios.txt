@@ -1,0 +1,18 @@
+1 - Criar uma api com um endpoint de produtos, onde os produtos seja uma lista de objetos, produto deve conter
+(id, nome, descrição, preço) e mostrar isso em tela
+[
+
+{
+
+
+}
+
+
+]
+
+2 - Criar uma api com um endpoint de animais, onde animais seja uma lista de objetos,
+animais devem conter (id, nome especie)
+
+
+3 - Criar uma api com dois endpoints, um de contato e outro de 
+endereços, retorne as informações de contato no endpoint / contatoe retorne as informações de endereço no endpoint / endereço
